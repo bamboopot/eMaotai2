@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cmaotai2-bPay-web:war">
+    <output-path>$PROJECT_DIR$/cmaotai2-bPay-web/target</output-path>
+    <root id="archive" name="cmaotai2-bPay-web.war">
+      <element id="artifact" artifact-name="cmaotai2-bPay-web:war exploded" />
+    </root>
+  </artifact>
+</component>

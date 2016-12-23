@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cmaotai2.iml" filepath="$PROJECT_DIR$/cmaotai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmaotai2-bPay/cmaotai2-bPay.iml" filepath="$PROJECT_DIR$/cmaotai2-bPay/cmaotai2-bPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cmaotai2-bPay-web/cmaotai2-bPay-web.iml" filepath="$PROJECT_DIR$/cmaotai2-bPay-web/cmaotai2-bPay-web.iml" />
+    </modules>
+  </component>
+</project>
